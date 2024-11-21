@@ -1,5 +1,5 @@
 # Paytm Payments All-in-One SDK for iOS
-* More Details: **https://developer.paytmpayments.com/docs/all-in-one-sdk/#ios**
+* More Details: **https://www.paytmpayments.com/docs/all-in-one-sdk/#ios**
 
 ## Paytm Staging App
 * App Link: https://testflight.apple.com/join/oeXnj05q
