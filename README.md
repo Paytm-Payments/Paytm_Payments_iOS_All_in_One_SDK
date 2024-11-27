@@ -15,10 +15,10 @@ new link:  https://accounts-uat.paytm.com
 
 older link: https://securegw-staging.paytm.in
 
-new link:  https://securegw-stage.paytm.in
+new link:  https://securestage.paytmpayments.com
 
 older link - https://pgp-staging.paytm.in 
 
-new link - https://securegw-stage.paytm.in
+new link - https://securestage.paytmpayments.com
 
 kill the app and run again.
